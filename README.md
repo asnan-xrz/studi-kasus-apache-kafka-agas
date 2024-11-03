@@ -45,7 +45,7 @@ Tugas:
 
 ![4 - ss kafka producer](https://github.com/user-attachments/assets/2f53fc9f-98ca-46a8-91e7-8cb7b2fbb6f3)
 
-5. Kemudian kita jalankan program ```spark-consumer.py``` dengan mengetikkan command ```spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3 .\spark-consumer.py```
+5. Kemudian kita jalankan program ```spark_consumer_script.py``` dengan mengetikkan command ```spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3 .\spark_consumer_script.py```
 
 ![5 - ss kafka consumer](https://github.com/user-attachments/assets/a0ebee8d-658c-4de3-94c6-a074d15d6a82)
 
